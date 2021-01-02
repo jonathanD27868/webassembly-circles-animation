@@ -1,0 +1,15 @@
+{
+  "name": "getting-started-with-wa",
+  "version": "1.0.0",
+  "description": "course code",
+  "main": "server.js",
+  "author": "dj",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "type-is": "^1.6.18"
+  }
+}
